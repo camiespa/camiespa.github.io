@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(255, 227, 103);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+
+div {
+    margin-left: 5rem;
+    margin-right: 5rem;
+ }
+
+#presentación {
+    background-color: rgb(255, 255, 255);
+    letter-spacing: 5px;
+    place-content: center;
+    text-align: center;
+    margin-left: 0rem;
+    margin-right: 0rem;
+}
+
+.imagen {
+    height: 10rem;
+}
+
+table {
+margin:0 auto
+}
+
+th, td {
+border: black 1px solid
+}
+
+.tablas {
+    place-content: center;
+    text-align: center;
+}
+
+.centrado {
+    place-content: center;
+    text-align: center;
+}
+
+#redes {
+    color: rgb(25, 11, 212) 
+}
+
+#contacto {
+    color: rgb(7, 163, 85)  
+}
+
+input, textarea, select {
+
+    background-color: aliceblue;
+    box-shadow: 2px 2px grey;
+    border-radius: 5px;
+    border: black solid 1px;
+}
